@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Solo Project #1]https://sprightly-monstera-ddb031.netlify.app/
 
 ### Project 2
 - Description
