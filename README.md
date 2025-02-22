@@ -7,7 +7,7 @@
 
 ### Project 2
 - Description
-- Links
+- [Solo Project #2](https://benevolent-arithmetic-02ecbb.netlify.app)
 
   # Education
   - College (Sixth Form)
