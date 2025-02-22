@@ -10,10 +10,3 @@
 ### Solo Project #2
 - This is my second solo project I created using JavaScript & HTML/CSS. The project is a passenger counter application that allows users to keep track the number of people that enter a public area (such as a train station) in real time. The 'Increment' button counts the amount of people with each click. One click would be for one person. The 'Save' button saves the amount of people you have counted using the 'Increment' button. 
 - [Click Here](https://benevolent-arithmetic-02ecbb.netlify.app)
-
-  # Education
-  - College (Sixth Form)
-
-  # Work History
-  - Work Place 1
-  - Work PLace 2
