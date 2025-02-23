@@ -13,7 +13,7 @@
     This project is an interactive basketball scoreboard that allows users to track scores for both the "Home" and "Guest" teams.
     Languages: JavaScript - HTML - CSS
   </p>
-  <a href="https://sprightly-monstera-ddb31.netlify.app" style="color: #007bff; text-decoration: none;">Click Here</a>
+  <a href="https://sprightly-monstera-ddb031.netlify.app" style="color: #007bff; text-decoration: none;">Click Here</a>
 </div>
 
 ### Solo Project #2
