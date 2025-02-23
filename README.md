@@ -28,8 +28,5 @@
 
 ## Contact Information
 
-Linkedin:
-<a href="https://www.linkedin.com/in/ahmed-mohamed-466204302/">Connect with me here</a>
-
 Email Address:
 ahmedomoh25@gmail.com
