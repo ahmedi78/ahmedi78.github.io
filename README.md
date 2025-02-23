@@ -25,3 +25,11 @@
   </p>
   <a href="https://benevolent-arithmetic-02ecbb.netlify.app" style="color: #007bff; text-decoration: none;">Click Here</a>
 </div>
+
+## Contact Information
+
+Linkedin:
+<a href="https://www.linkedin.com/in/ahmed-mohamed-466204302/">Connect with me here</a>
+
+Email Address:
+ahmedomoh25@gmail.com
